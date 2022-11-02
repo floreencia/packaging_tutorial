@@ -7,7 +7,7 @@ https://test.pypi.org/project/example-package-florenius/
 
 ## Personal notes
 
-Follow instructions in [this totorial](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
+Follow instructions in [this tutorial](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
 
 ### The tutorial in a nutshell
 
